@@ -1,4 +1,4 @@
-#idbi - IndexedDB ideal
+# idbi - IndexedDB ideal
 > IndexedDB Promised
 
 ## Installation
