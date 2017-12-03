@@ -15,6 +15,16 @@
     "IndexedDB",
     "Promised"
   ],
+  "author": "Zaporozhets Yura <works.yura@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:YuraDev/idbi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YuraDev/idbi/issues"
+  },
+  "homepage": "https://github.com/YuraDev/idbi#readme",
   "devDependencies": {
     "babel-cli": "6.24.1",
     "babel-core": "6.24.1",
@@ -46,7 +56,5 @@
     "sinon-chai": "^2.14.0",
     "webpack": "3.1.0",
     "webpack-merge": "^4.1.1"
-  },
-  "author": "Zaporozhets Yura <works.yura@gmail.com>",
-  "license": "MIT"
+  }
 }
