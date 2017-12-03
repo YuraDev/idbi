@@ -4,13 +4,13 @@
 ## Installation
 
 ```bash
-npm install wcer --save-dev
+npm install idbi --save
 // or
-yarn add wcer --dev
+yarn add idbi
 ```
 ## Open
 ```js
-let {Books, User} = idb.open({
+let {Books, User} = idbi.open({
   name: 'muse',
   stores: {
     Books: {
